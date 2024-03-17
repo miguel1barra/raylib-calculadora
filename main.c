@@ -78,7 +78,7 @@ int main(void) {
     DrawText("9", 175, 300, 20, BLACK);
 
     DrawRectangle(10, 280, 60, 60, GRAY);
-    DrawText("0", 35, 300 , 20, PURPLE);
+    DrawText("7", 35, 300 , 20, PURPLE);
     
     
 
