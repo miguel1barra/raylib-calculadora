@@ -80,6 +80,8 @@ int main(void) {
     DrawRectangle(10, 280, 60, 60, GRAY);
     DrawText("7", 35, 300 , 20, PURPLE);
     
+    DrawRectangle(10, 380, 60, 60, GRAY);    
+    DrawText("0", 35, 400, 20, BLACK);
     
 
     // Create + - * / = symbols
